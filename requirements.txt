@@ -1,0 +1,9 @@
+# 先依你的 CUDA 版本裝好 PyTorch（https://pytorch.org），再裝下面這些
+funasr==1.4.16
+kaldi-native-fbank==1.22.3
+huggingface_hub>=0.30
+opencc-python-reimplemented==0.1.7
+numpy
+gguf>=0.19
+sentencepiece
+safetensors

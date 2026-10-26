@@ -1,0 +1,6 @@
+run*/
+transcribe.cpp/
+.venv/
+parroting-asr-dataset-*/
+__pycache__/
+*.gguf
