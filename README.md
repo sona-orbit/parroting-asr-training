@@ -153,3 +153,5 @@ The export contains your voice and what you said. Everything in this kit runs on
 
 - The code in this repository is under the MIT License.
 - SenseVoice Small is released under the [FunASR model license](https://github.com/modelscope/FunASR/blob/main/MODEL_LICENSE). Models you train from it are bound by that license too.
+
+- Published by Sona Orbit. Issues and pull requests are turned off.
