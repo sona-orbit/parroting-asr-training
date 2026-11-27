@@ -1,4 +1,8 @@
-# Parroting speech model training kit
+# Parroting speech model training kit — fine-tune SenseVoice Small on your own voice with LoRA
+
+Train a speech recognition model on your own recordings for [Parroting](https://sona-orbit.github.io/parroting/), the voice typing app for Mac. This kit fine-tunes SenseVoice Small with LoRA on an NVIDIA GPU, measures the error rate before and after on clips it never saw, and exports a GGUF file you import into Parroting. Everything runs on your own computer.
+
+[Personalized learning in Parroting](https://sona-orbit.github.io/parroting/learning) · [Parroting website](https://sona-orbit.github.io/parroting/en/) · [Download Parroting for Mac](https://github.com/sona-orbit/parroting-releases/releases/latest)
 
 Train a speech model that knows **your** voice, accent and words, then use it in [Parroting](https://sona-orbit.github.io/parroting/).
 
